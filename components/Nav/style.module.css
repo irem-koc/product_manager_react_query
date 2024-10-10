@@ -1,4 +1,22 @@
+/* --amaranth-purple: #a4243bff;
+--ecru: #d8c99bff;
+--butterscotch: #d8973cff;
+--alloy-orange: #bd632fff;
+--charcoal: #273e47ff; */
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 3rem;
+    background-color: #a4243bff;
+}
+.logoContainer{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    
+}
 .header{
-    text-decoration: underline;
-    color: red
+    font-size: x-large;
+    color:#d8c99bff
 }
